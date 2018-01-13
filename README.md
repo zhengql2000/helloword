@@ -1,1 +1,1 @@
-＃jscs.githun.io
+jscs.githun.io
